@@ -12,3 +12,6 @@ add_executable(friend lec2/FriendlyFunction.cpp)
 
 add_executable(file lec3/File.cpp)
 
+add_executable(destructor lec4/Destructor.cpp)
+
+
