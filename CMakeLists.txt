@@ -14,4 +14,6 @@ add_executable(file lec3/File.cpp)
 
 add_executable(destructor lec4/Destructor.cpp)
 
+add_executable(ingeritance lec6/Inheritance.cpp)
+
 
