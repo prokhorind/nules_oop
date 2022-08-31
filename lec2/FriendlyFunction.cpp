@@ -7,6 +7,7 @@
 using namespace std;
 
 class Box {
+private:
     double width;
 
 public:

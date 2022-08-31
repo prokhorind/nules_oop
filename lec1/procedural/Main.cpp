@@ -6,13 +6,13 @@
 using namespace std;
 
 
- void toString(string name , string faculty , int course) {
+void toString(string name, string faculty, int course) {
 
-    cout<< name + " " + faculty +" "+ to_string(course) << endl;
+    cout << name + " " + faculty + " " + to_string(course) << endl;
 }
 
 int main() {
-     string schoolName = "Hogwarts";
+    string schoolName = "Hogwarts";
 
     string name = "John";
     string faculty = "G";
