@@ -16,4 +16,6 @@ add_executable(destructor lec4/Destructor.cpp)
 
 add_executable(ingeritance lec6/Inheritance.cpp)
 
+add_executable(rec lec1/oop/RectangleSquare.cpp)
+
 
